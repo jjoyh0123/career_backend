@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 제가 기여한 내용 (My Contribution)
+## 👨‍💻 담당 역할 (My Contribution)
 
 이 프로젝트의 백엔드 개발에 참여하여 다음과 같은 핵심 기능들을 설계하고 구현했습니다.
 
@@ -15,11 +15,9 @@
 - 커뮤니티 게시판 CRUD 및 외부 뉴스 API 연동
 - 관리자용 공고관리 (조회, 승인, 반려)
 
-*(추후 각 기능에 대한 구체적인 역할과 기술적 경험을 추가할 예정입니다.)*
-
 ---
 
-## 🔧 핵심 기술 스택 (Key Tech Stack)
+## 🔧 Tech Stack
 
 - **Backend**: Spring Boot, Spring Security, Java
 - **Database & ORM**: MySQL, JPA/Hibernate, QueryDSL
